@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBVEHICULOSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="USER">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EMAIL" Type="nvarchar" MaxLength="50" />
+    <Property Name="PASSWORD" Type="nvarchar" MaxLength="50" />
+    <Property Name="EDAD" Type="int" />
+    <Property Name="idEstatus" Type="int" />
+  </EntityType>
+  <EntityType Name="usrESTATUS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ESTATUS" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="VEHICULOS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MARCA" Type="nvarchar" MaxLength="50" />
+    <Property Name="MODELO" Type="nvarchar" MaxLength="50" />
+    <Property Name="NYEAR" Type="int" />
+    <Property Name="CONDICION" Type="nvarchar" MaxLength="50" />
+    <Property Name="ESTATUS" Type="int" />
+    <Property Name="PRECIO" Type="float" />
+    <Property Name="FOTO" Type="text" />
+  </EntityType>
+  <EntityType Name="vhCONDICION">
+    <Key>
+      <PropertyRef Name="IDCONDICION" />
+    </Key>
+    <Property Name="IDCONDICION" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DESCRIPCION" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="vhESTATUS">
+    <Key>
+      <PropertyRef Name="ESTATUS" />
+    </Key>
+    <Property Name="ESTATUS" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DESCRIPCION" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_USER_usrESTATUS">
+    <End Role="usrESTATUS" Type="Self.usrESTATUS" Multiplicity="0..1" />
+    <End Role="USER" Type="Self.USER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="usrESTATUS">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="USER">
+        <PropertyRef Name="idEstatus" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VEHICULOS_VEHICULOS">
+    <End Role="vhESTATUS" Type="Self.vhESTATUS" Multiplicity="0..1" />
+    <End Role="VEHICULOS" Type="Self.VEHICULOS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="vhESTATUS">
+        <PropertyRef Name="ESTATUS" />
+      </Principal>
+      <Dependent Role="VEHICULOS">
+        <PropertyRef Name="ESTATUS" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBVEHICULOSModelStoreContainer">
+    <EntitySet Name="USER" EntityType="Self.USER" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="usrESTATUS" EntityType="Self.usrESTATUS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VEHICULOS" EntityType="Self.VEHICULOS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="vhCONDICION" EntityType="Self.vhCONDICION" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="vhESTATUS" EntityType="Self.vhESTATUS" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_USER_usrESTATUS" Association="Self.FK_USER_usrESTATUS">
+      <End Role="usrESTATUS" EntitySet="usrESTATUS" />
+      <End Role="USER" EntitySet="USER" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VEHICULOS_VEHICULOS" Association="Self.FK_VEHICULOS_VEHICULOS">
+      <End Role="vhESTATUS" EntitySet="vhESTATUS" />
+      <End Role="VEHICULOS" EntitySet="VEHICULOS" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

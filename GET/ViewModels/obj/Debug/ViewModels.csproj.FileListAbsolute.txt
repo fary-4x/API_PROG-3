@@ -1,0 +1,5 @@
+C:\Users\abreu\OneDrive\Escritorio\GET\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\abreu\OneDrive\Escritorio\GET\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\abreu\OneDrive\Escritorio\GET\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\ViewModels\obj\Debug\ViewModels.pdb

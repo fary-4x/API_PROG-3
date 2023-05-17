@@ -1,0 +1,28 @@
+C:\WEBAPI\WAPIGET\ViewModel\bin\Debug\netstandard2.0\ViewModel.deps.json
+C:\WEBAPI\WAPIGET\ViewModel\bin\Debug\netstandard2.0\ViewModel.dll
+C:\WEBAPI\WAPIGET\ViewModel\bin\Debug\netstandard2.0\ViewModel.pdb
+C:\WEBAPI\WAPIGET\ViewModel\obj\Debug\netstandard2.0\ViewModel.csprojAssemblyReference.cache
+C:\WEBAPI\WAPIGET\ViewModel\obj\Debug\netstandard2.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\WEBAPI\WAPIGET\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfoInputs.cache
+C:\WEBAPI\WAPIGET\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfo.cs
+C:\WEBAPI\WAPIGET\ViewModel\obj\Debug\netstandard2.0\ViewModel.dll
+C:\WEBAPI\WAPIGET\ViewModel\obj\Debug\netstandard2.0\ViewModel.pdb
+C:\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\bin\Debug\netstandard2.0\ViewModel.deps.json
+C:\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\bin\Debug\netstandard2.0\ViewModel.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\bin\Debug\netstandard2.0\ViewModel.pdb
+C:\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\obj\Debug\netstandard2.0\ViewModel.csprojAssemblyReference.cache
+C:\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\obj\Debug\netstandard2.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfoInputs.cache
+C:\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfo.cs
+C:\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\obj\Debug\netstandard2.0\ViewModel.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\obj\Debug\netstandard2.0\ViewModel.pdb
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\bin\Debug\netstandard2.0\ViewModel.deps.json
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\bin\Debug\netstandard2.0\ViewModel.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\bin\Debug\netstandard2.0\ViewModel.pdb
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\obj\Debug\netstandard2.0\ViewModel.csproj.AssemblyReference.cache
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\obj\Debug\netstandard2.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfoInputs.cache
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfo.cs
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\obj\Debug\netstandard2.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\obj\Debug\netstandard2.0\ViewModel.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\ViewModel\obj\Debug\netstandard2.0\ViewModel.pdb

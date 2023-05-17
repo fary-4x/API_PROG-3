@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBVEHICULOSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="USER">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EMAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PASSWORD" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EDAD" Type="Int32" />
+    <Property Name="idEstatus" Type="Int32" />
+    <NavigationProperty Name="usrESTATU" Relationship="Self.FK_USER_usrESTATUS" FromRole="USER" ToRole="usrESTATUS" />
+  </EntityType>
+  <EntityType Name="usrESTATU">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ESTATUS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="USERs" Relationship="Self.FK_USER_usrESTATUS" FromRole="usrESTATUS" ToRole="USER" />
+  </EntityType>
+  <EntityType Name="VEHICULO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MARCA" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="MODELO" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NYEAR" Type="Int32" />
+    <Property Name="CONDICION" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ESTATUS" Type="Int32" />
+    <Property Name="PRECIO" Type="Double" />
+    <Property Name="FOTO" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="vhESTATU" Relationship="Self.FK_VEHICULOS_VEHICULOS" FromRole="VEHICULOS" ToRole="vhESTATUS" />
+  </EntityType>
+  <EntityType Name="vhCONDICION">
+    <Key>
+      <PropertyRef Name="IDCONDICION" />
+    </Key>
+    <Property Name="IDCONDICION" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPCION" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="vhESTATU">
+    <Key>
+      <PropertyRef Name="ESTATUS" />
+    </Key>
+    <Property Name="ESTATUS" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPCION" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="VEHICULOS" Relationship="Self.FK_VEHICULOS_VEHICULOS" FromRole="vhESTATUS" ToRole="VEHICULOS" />
+  </EntityType>
+  <Association Name="FK_USER_usrESTATUS">
+    <End Role="usrESTATUS" Type="Self.usrESTATU" Multiplicity="0..1" />
+    <End Role="USER" Type="Self.USER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="usrESTATUS">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="USER">
+        <PropertyRef Name="idEstatus" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VEHICULOS_VEHICULOS">
+    <End Role="vhESTATUS" Type="Self.vhESTATU" Multiplicity="0..1" />
+    <End Role="VEHICULOS" Type="Self.VEHICULO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="vhESTATUS">
+        <PropertyRef Name="ESTATUS" />
+      </Principal>
+      <Dependent Role="VEHICULOS">
+        <PropertyRef Name="ESTATUS" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBVEHICULOSEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="USERs" EntityType="Self.USER" />
+    <EntitySet Name="usrESTATUS" EntityType="Self.usrESTATU" />
+    <EntitySet Name="VEHICULOS" EntityType="Self.VEHICULO" />
+    <EntitySet Name="vhCONDICIONs" EntityType="Self.vhCONDICION" />
+    <EntitySet Name="vhESTATUS" EntityType="Self.vhESTATU" />
+    <AssociationSet Name="FK_USER_usrESTATUS" Association="Self.FK_USER_usrESTATUS">
+      <End Role="usrESTATUS" EntitySet="usrESTATUS" />
+      <End Role="USER" EntitySet="USERs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VEHICULOS_VEHICULOS" Association="Self.FK_VEHICULOS_VEHICULOS">
+      <End Role="vhESTATUS" EntitySet="vhESTATUS" />
+      <End Role="VEHICULOS" EntitySet="VEHICULOS" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

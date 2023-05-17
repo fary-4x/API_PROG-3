@@ -1,0 +1,638 @@
+C:\WEBAPI\WAPIGET\WAPIGET\bin\WAPIGET.dll.config
+C:\WEBAPI\WAPIGET\WAPIGET\bin\WAPIGET.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\WAPIGET.pdb
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\csc.exe
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\csc.exe.config
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\csc.rsp
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\csi.exe
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\csi.exe.config
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\csi.rsp
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\Microsoft.Managed.Core.targets
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.AppContext.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Collections.Immutable.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Console.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.IO.Compression.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.IO.FileSystem.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.IO.Pipes.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Reflection.Metadata.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Security.AccessControl.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Security.Claims.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.ValueTuple.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Xml.XPath.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\vbc.exe
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\vbc.exe.config
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\vbc.rsp
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\VBCSCompiler.exe
+C:\WEBAPI\WAPIGET\WAPIGET\bin\roslyn\VBCSCompiler.exe.config
+C:\WEBAPI\WAPIGET\WAPIGET\bin\Microsoft.Win32.Primitives.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\netstandard.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.AppContext.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Collections.Concurrent.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Collections.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Collections.NonGeneric.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Collections.Specialized.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.ComponentModel.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.ComponentModel.EventBasedAsync.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.ComponentModel.Primitives.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.ComponentModel.TypeConverter.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Console.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Data.Common.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Diagnostics.Contracts.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Diagnostics.Debug.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Diagnostics.FileVersionInfo.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Diagnostics.Process.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Diagnostics.StackTrace.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Diagnostics.Tools.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Diagnostics.TraceSource.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Diagnostics.Tracing.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Drawing.Primitives.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Dynamic.Runtime.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Globalization.Calendars.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Globalization.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Globalization.Extensions.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.IO.Compression.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.IO.Compression.ZipFile.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.IO.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.IO.FileSystem.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.IO.FileSystem.DriveInfo.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.IO.FileSystem.Primitives.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.IO.FileSystem.Watcher.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.IO.IsolatedStorage.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.IO.MemoryMappedFiles.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.IO.Pipes.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.IO.UnmanagedMemoryStream.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Linq.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Linq.Expressions.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Linq.Parallel.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Linq.Queryable.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Net.Http.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Net.NameResolution.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Net.NetworkInformation.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Net.Ping.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Net.Primitives.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Net.Requests.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Net.Security.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Net.Sockets.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Net.WebHeaderCollection.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Net.WebSockets.Client.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Net.WebSockets.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.ObjectModel.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Reflection.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Reflection.Extensions.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Reflection.Primitives.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Resources.Reader.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Resources.ResourceManager.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Resources.Writer.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Runtime.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Runtime.Extensions.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Runtime.Handles.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Runtime.InteropServices.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Runtime.Numerics.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Runtime.Serialization.Formatters.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Runtime.Serialization.Json.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Runtime.Serialization.Primitives.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Runtime.Serialization.Xml.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Security.Claims.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Security.Cryptography.Algorithms.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Security.Cryptography.Csp.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Security.Cryptography.Encoding.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Security.Cryptography.Primitives.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Security.Cryptography.X509Certificates.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Security.Principal.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Security.SecureString.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Text.Encoding.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Text.Encoding.Extensions.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Text.RegularExpressions.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Threading.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Threading.Overlapped.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Threading.Tasks.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Threading.Tasks.Parallel.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Threading.Thread.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Threading.ThreadPool.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Threading.Timer.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.ValueTuple.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Xml.ReaderWriter.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Xml.XDocument.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Xml.XmlDocument.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Xml.XmlSerializer.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Xml.XPath.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Xml.XPath.XDocument.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\Antlr3.Runtime.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\EntityFramework.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\EntityFramework.SqlServer.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\Microsoft.Web.Infrastructure.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\Newtonsoft.Json.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Net.Http.Formatting.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.Helpers.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.Http.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.Http.WebHost.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.Mvc.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.Optimization.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.Razor.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.WebPages.Deployment.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.WebPages.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.WebPages.Razor.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\ViewModel.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\WebGrease.dll
+C:\WEBAPI\WAPIGET\WAPIGET\bin\ViewModel.pdb
+C:\WEBAPI\WAPIGET\WAPIGET\bin\EntityFramework.xml
+C:\WEBAPI\WAPIGET\WAPIGET\bin\EntityFramework.SqlServer.xml
+C:\WEBAPI\WAPIGET\WAPIGET\bin\Newtonsoft.Json.xml
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Net.Http.Formatting.xml
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.Helpers.xml
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.Http.xml
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.Http.WebHost.xml
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.Mvc.xml
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.Optimization.xml
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.Razor.xml
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.WebPages.xml
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.WebPages.Deployment.xml
+C:\WEBAPI\WAPIGET\WAPIGET\bin\System.Web.WebPages.Razor.xml
+C:\WEBAPI\WAPIGET\WAPIGET\bin\Antlr3.Runtime.pdb
+C:\WEBAPI\WAPIGET\WAPIGET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WEBAPI\WAPIGET\WAPIGET\obj\Debug\WAPIGET.csprojAssemblyReference.cache
+C:\WEBAPI\WAPIGET\WAPIGET\obj\Debug\WAPIGET.csproj.CoreCompileInputs.cache
+C:\WEBAPI\WAPIGET\WAPIGET\obj\Debug\WAPIGET.csproj.CopyComplete
+C:\WEBAPI\WAPIGET\WAPIGET\obj\Debug\WAPIGET.dll
+C:\WEBAPI\WAPIGET\WAPIGET\obj\Debug\WAPIGET.pdb
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\WAPIGET.dll.config
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\WAPIGET.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\WAPIGET.pdb
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\csc.exe
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\csc.exe.config
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\csc.rsp
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\csi.exe
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\csi.exe.config
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\csi.rsp
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.Managed.Core.targets
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.AppContext.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Collections.Immutable.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Console.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.IO.Compression.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.IO.FileSystem.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.IO.Pipes.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Reflection.Metadata.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.AccessControl.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.Claims.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.ValueTuple.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Xml.XPath.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\vbc.exe
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\vbc.exe.config
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\vbc.rsp
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\VBCSCompiler.exe
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\VBCSCompiler.exe.config
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Microsoft.Win32.Primitives.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\netstandard.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.AppContext.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Collections.Concurrent.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Collections.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Collections.NonGeneric.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Collections.Specialized.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.ComponentModel.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.ComponentModel.EventBasedAsync.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.ComponentModel.Primitives.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.ComponentModel.TypeConverter.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Console.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Data.Common.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.Contracts.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.Debug.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.FileVersionInfo.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.Process.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.StackTrace.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.Tools.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.TraceSource.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.Tracing.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Drawing.Primitives.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Dynamic.Runtime.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Globalization.Calendars.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Globalization.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Globalization.Extensions.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.Compression.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.Compression.ZipFile.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.FileSystem.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.FileSystem.DriveInfo.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.FileSystem.Primitives.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.FileSystem.Watcher.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.IsolatedStorage.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.MemoryMappedFiles.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.Pipes.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.UnmanagedMemoryStream.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Linq.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Linq.Expressions.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Linq.Parallel.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Linq.Queryable.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Http.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.NameResolution.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.NetworkInformation.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Ping.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Primitives.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Requests.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Security.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Sockets.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.WebHeaderCollection.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.WebSockets.Client.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.WebSockets.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.ObjectModel.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Reflection.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Reflection.Extensions.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Reflection.Primitives.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Resources.Reader.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Resources.ResourceManager.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Resources.Writer.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Extensions.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Handles.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.InteropServices.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Numerics.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Serialization.Formatters.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Serialization.Json.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Serialization.Primitives.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Serialization.Xml.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Claims.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Cryptography.Algorithms.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Cryptography.Csp.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Cryptography.Encoding.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Cryptography.Primitives.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Cryptography.X509Certificates.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Principal.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.SecureString.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Text.Encoding.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Text.Encoding.Extensions.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Text.RegularExpressions.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.Overlapped.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.Tasks.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.Tasks.Parallel.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.Thread.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.ThreadPool.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.Timer.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.ValueTuple.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Xml.ReaderWriter.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Xml.XDocument.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Xml.XmlDocument.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Xml.XmlSerializer.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Xml.XPath.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Xml.XPath.XDocument.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Antlr3.Runtime.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\EntityFramework.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\EntityFramework.SqlServer.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Microsoft.Web.Infrastructure.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Newtonsoft.Json.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Http.Formatting.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Helpers.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Http.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Http.WebHost.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Mvc.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Optimization.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Razor.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.WebPages.Deployment.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.WebPages.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.WebPages.Razor.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\ViewModel.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\WebGrease.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\ViewModel.pdb
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\EntityFramework.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\EntityFramework.SqlServer.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Newtonsoft.Json.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Http.Formatting.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Helpers.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Http.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Http.WebHost.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Mvc.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Optimization.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Razor.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.WebPages.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.WebPages.Deployment.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.WebPages.Razor.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Antlr3.Runtime.pdb
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\obj\Debug\WAPIGET.csprojAssemblyReference.cache
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\obj\Debug\WAPIGET.csproj.CoreCompileInputs.cache
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\obj\Debug\WAPIGET.csproj.CopyComplete
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\obj\Debug\WAPIGET.dll
+C:\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\obj\Debug\WAPIGET.pdb
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\WAPIGET.dll.config
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\WAPIGET.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\WAPIGET.pdb
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\csc.exe
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\csc.exe.config
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\csc.rsp
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\csi.exe
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\csi.exe.config
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\csi.rsp
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.AppContext.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Collections.Immutable.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Console.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.IO.Compression.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.IO.FileSystem.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.IO.Pipes.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Reflection.Metadata.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.AccessControl.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.Claims.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.ValueTuple.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Xml.XPath.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\vbc.exe
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\vbc.exe.config
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\vbc.rsp
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\VBCSCompiler.exe
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\roslyn\VBCSCompiler.exe.config
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Microsoft.Win32.Primitives.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\netstandard.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.AppContext.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Collections.Concurrent.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Collections.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Collections.NonGeneric.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Collections.Specialized.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.ComponentModel.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.ComponentModel.EventBasedAsync.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.ComponentModel.Primitives.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.ComponentModel.TypeConverter.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Console.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Data.Common.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.Contracts.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.Debug.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.FileVersionInfo.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.Process.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.StackTrace.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.Tools.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.TraceSource.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Diagnostics.Tracing.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Drawing.Primitives.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Dynamic.Runtime.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Globalization.Calendars.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Globalization.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Globalization.Extensions.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.Compression.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.Compression.ZipFile.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.FileSystem.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.FileSystem.DriveInfo.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.FileSystem.Primitives.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.FileSystem.Watcher.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.IsolatedStorage.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.MemoryMappedFiles.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.Pipes.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.IO.UnmanagedMemoryStream.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Linq.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Linq.Expressions.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Linq.Parallel.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Linq.Queryable.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Http.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.NameResolution.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.NetworkInformation.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Ping.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Primitives.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Requests.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Security.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Sockets.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.WebHeaderCollection.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.WebSockets.Client.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.WebSockets.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.ObjectModel.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Reflection.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Reflection.Extensions.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Reflection.Primitives.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Resources.Reader.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Resources.ResourceManager.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Resources.Writer.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Extensions.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Handles.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.InteropServices.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Numerics.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Serialization.Formatters.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Serialization.Json.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Serialization.Primitives.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Runtime.Serialization.Xml.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Claims.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Cryptography.Algorithms.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Cryptography.Csp.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Cryptography.Encoding.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Cryptography.Primitives.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Cryptography.X509Certificates.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.Principal.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Security.SecureString.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Text.Encoding.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Text.Encoding.Extensions.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Text.RegularExpressions.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.Overlapped.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.Tasks.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.Tasks.Parallel.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.Thread.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.ThreadPool.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Threading.Timer.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.ValueTuple.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Xml.ReaderWriter.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Xml.XDocument.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Xml.XmlDocument.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Xml.XmlSerializer.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Xml.XPath.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Xml.XPath.XDocument.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Antlr3.Runtime.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\EntityFramework.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\EntityFramework.SqlServer.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Microsoft.Web.Infrastructure.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Newtonsoft.Json.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Http.Formatting.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Helpers.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Http.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Http.WebHost.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Mvc.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Optimization.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Razor.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.WebPages.Deployment.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.WebPages.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.WebPages.Razor.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\ViewModel.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\WebGrease.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\ViewModel.pdb
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\EntityFramework.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\EntityFramework.SqlServer.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Newtonsoft.Json.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Net.Http.Formatting.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Helpers.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Http.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Http.WebHost.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Mvc.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Optimization.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.Razor.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.WebPages.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.WebPages.Deployment.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\System.Web.WebPages.Razor.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Antlr3.Runtime.pdb
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\obj\Debug\WAPIGET.csproj.AssemblyReference.cache
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\obj\Debug\WAPIGET.csproj.CoreCompileInputs.cache
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\obj\Debug\WAPIGET.csproj.CopyComplete
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\obj\Debug\WAPIGET.dll
+C:\ITLA 2022 C3\2022 C3 PG 3\SC07\WebApi\GET\WAPIGET\obj\Debug\WAPIGET.pdb
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\obj\Debug\WAPIGET.csprojResolveAssemblyReference.cache
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\obj\Debug\WAPIGET.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\obj\Debug\WAPIGET.pdb
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\WAPIGET.dll.config
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\WAPIGET.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\WAPIGET.pdb
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\csc.exe
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\csc.exe.config
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\csc.rsp
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\csi.exe
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\csi.exe.config
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\csi.rsp
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.AppContext.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Console.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.IO.Compression.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.IO.Pipes.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Security.Claims.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.ValueTuple.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\vbc.exe
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\vbc.exe.config
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\vbc.rsp
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\VBCSCompiler.exe
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\Antlr3.Runtime.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\EntityFramework.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\EntityFramework.SqlServer.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\Newtonsoft.Json.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Net.Http.Formatting.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.Helpers.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.Http.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.Http.WebHost.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.Mvc.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.Optimization.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.Razor.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.WebPages.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.WebPages.Razor.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\ViewModels.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\WebGrease.dll
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\ViewModels.pdb
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\EntityFramework.xml
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\EntityFramework.SqlServer.xml
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\Newtonsoft.Json.xml
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Net.Http.Formatting.xml
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.Helpers.xml
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.Http.xml
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.Http.WebHost.xml
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.Mvc.xml
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.Optimization.xml
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.Razor.xml
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.WebPages.xml
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\System.Web.WebPages.Razor.xml
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\Antlr3.Runtime.pdb
+C:\Users\abreu\OneDrive\Escritorio\GET\WAPIGET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

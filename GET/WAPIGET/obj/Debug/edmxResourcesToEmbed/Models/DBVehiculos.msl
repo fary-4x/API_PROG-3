@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBVEHICULOSModelStoreContainer" CdmEntityContainer="DBVEHICULOSEntities1">
+    <EntitySetMapping Name="USERs">
+      <EntityTypeMapping TypeName="DBVEHICULOSModel.USER">
+        <MappingFragment StoreEntitySet="USER">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="EDAD" ColumnName="EDAD" />
+          <ScalarProperty Name="idEstatus" ColumnName="idEstatus" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="usrESTATUS">
+      <EntityTypeMapping TypeName="DBVEHICULOSModel.usrESTATU">
+        <MappingFragment StoreEntitySet="usrESTATUS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ESTATUS" ColumnName="ESTATUS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VEHICULOS">
+      <EntityTypeMapping TypeName="DBVEHICULOSModel.VEHICULO">
+        <MappingFragment StoreEntitySet="VEHICULOS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MARCA" ColumnName="MARCA" />
+          <ScalarProperty Name="MODELO" ColumnName="MODELO" />
+          <ScalarProperty Name="NYEAR" ColumnName="NYEAR" />
+          <ScalarProperty Name="CONDICION" ColumnName="CONDICION" />
+          <ScalarProperty Name="ESTATUS" ColumnName="ESTATUS" />
+          <ScalarProperty Name="PRECIO" ColumnName="PRECIO" />
+          <ScalarProperty Name="FOTO" ColumnName="FOTO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vhCONDICIONs">
+      <EntityTypeMapping TypeName="DBVEHICULOSModel.vhCONDICION">
+        <MappingFragment StoreEntitySet="vhCONDICION">
+          <ScalarProperty Name="IDCONDICION" ColumnName="IDCONDICION" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vhESTATUS">
+      <EntityTypeMapping TypeName="DBVEHICULOSModel.vhESTATU">
+        <MappingFragment StoreEntitySet="vhESTATUS">
+          <ScalarProperty Name="ESTATUS" ColumnName="ESTATUS" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
